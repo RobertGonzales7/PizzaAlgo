@@ -1,0 +1,5 @@
+Decide which business from which to order a pizza
+Decide what kind of crust you want
+Decide what size of pizza
+Decide the toppings on the pizza
+Decide on side orders
